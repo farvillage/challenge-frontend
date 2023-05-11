@@ -1,5 +1,5 @@
 # Desafio proposto pelo Professor Angelo (Tecnologia para Front End):
-Desenvolver um projeto Web escolhendo um dos 7 temas propostos pelo Professor, utilizando apenas HTML e CSS.
+Desenvolver um projeto Web escolhendo um dos 7 temas propostos pelo Professor (utilizando HTML e CSS).
 
 ## Tema:
 [Card de Perfume](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa):
