@@ -1,0 +1,32 @@
+:root{
+    --primary-color: #455E18;
+    --secundary-color: #DAF7A6;
+}
+
+body{
+    background-color: var(--primary-color);
+    font-family: Georgia;
+    font-size: 14px;
+}
+
+#content{
+    height: 20px;
+    width: 360px;
+    margin: 100px auto;
+    padding: 1rem;
+    color: var(--secundary-color);
+    align-items: center;
+}
+
+.attributions{
+    padding: 1rem;
+    height: 100%;
+    width: 475px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+
+.attributions a{
+    color: palegreen;
+}
